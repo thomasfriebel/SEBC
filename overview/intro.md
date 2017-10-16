@@ -25,10 +25,9 @@
 
 * Robert Siwicki (Senior Solutions Architect) - rsiwicki
 * Please introduce yourselves:
-    * Name
-    * Region & Role
-    * Your experience with Hadoop to date
-
+    * Thomas Friebel
+    * Germany (Central EMEA) as Partner Sales Engineer
+    * started with Cloudera on 15th of May 2017
 ---
 <div style="page-break-after: always;"></div>
 
